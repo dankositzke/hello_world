@@ -1,6 +1,7 @@
 def welcome_message():
-    name = input("Hello! What is your name? ")
-    print('What a beautiful name :)')
-    print('Welcome ' + name + '.')
+    name = input("Hello! Who the heck are you? ")
+    print("What a beautiful name :)")
+    print("Welcome " + name + ".")
+
 
 welcome_message()
